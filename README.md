@@ -14,7 +14,7 @@ $$E_{\text{max}} = \left( \frac{\left( \frac{10^{12} \times 86400 \times BR}{Dif
 ### 2. CapEx Payback Horizon Matrix
 Calculates the absolute capital depreciation return schedules by checking live operational unit net margins against dynamic wholesale equipment market price layers:
 
-$$\text{Estimated Payback (Days)} = \frac{\text{Wholesale Equipment Unit Price (\$)}}{\text{Daily Unit Revenue (\$/Day)} - \text{Daily Unit OpEx Cost (\$/Day)}}$$
+$$\text{Estimated Payback (Days)} = \frac{\text{Wholesale Equipment Unit Price (USD)}}{\text{Daily Unit Revenue (USD/Day)} - \text{Daily Unit OpEx Cost (USD/Day)}}$$
 
 ## 📊 Application Visual Architecture
 
