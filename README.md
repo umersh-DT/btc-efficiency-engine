@@ -35,8 +35,7 @@ Ensure your local Python environment or Jupyter Notebook instance has the requir
 ```bash
 pip install dash plotly pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Umersh-DT/btc-efficiency-engine/blob/main/notebooks/bitcoin_efficiency_dashboard.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umersh-DT/btc-efficiency-engine/blob/main/bitcoin_efficiency_dashboard.ipynb)
 ### Running the Dashboard Locally
 
 1. Clone the repository:
