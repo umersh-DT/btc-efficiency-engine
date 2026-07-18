@@ -16,8 +16,6 @@ Calculates the absolute capital depreciation return schedules by checking live o
 
 $$\text{Estimated Payback (Days)} = \frac{\text{Wholesale Equipment Unit Price (\$)}}{\text{Daily Unit Revenue (\$/Day)} - \text{Daily Unit OpEx Cost (\$/Day)}}$$
 
----
-
 ## 📊 Application Visual Architecture
 
 The dashboard implements an interactive **Sidebar Layout** divided into four major analytical zones:
